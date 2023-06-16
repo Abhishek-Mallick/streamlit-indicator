@@ -1,0 +1,9 @@
+streamlit==1.23.1
+numpy==1.23.5
+pandas==2.0.2
+yahoo_fin==1.7.0
+matplotlib==3.5.1
+mpld3==0.5.5
+pandas_ta==0.3.14
+scikit-learn==1.0.1
+fpdf==1.7.2
